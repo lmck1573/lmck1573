@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on game making
-- 📫 How to reach me :1150722120@qq.com
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
